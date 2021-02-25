@@ -55,11 +55,12 @@ https://aqs.epa.gov/data/api/list/parametersByClass?email=ryan.bares@utah.edu&ke
 Don't forget to update the email and key! 
 
 
-# Saving the files from the web browser
+# STEP 3: Saving Files From Web Browser
 Once you have executed the command the API will return data to the HTML browser formatted for a .json file.  Note that it can take a while to receive all the data so be patient with it. 
 
 To save the data from the html page to your local drive go to: 
 **File -> Save Page As...** 
+
 Name the file and select .json as the format. 
 
 Boom!  You have successfully formatted a request for data from the EPA's AQS API, received that data and saved it!  
