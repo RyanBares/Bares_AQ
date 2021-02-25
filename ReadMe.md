@@ -15,7 +15,7 @@ Replace "myemail@example.com" with the email address you want associated with yo
 The key they send you will be used in all subsequent data requests.  If you lose it you can always request a new one.
 
 
-# Request Structure
+# STEP 2: Formatting a Request
 The request commands are structured as a series of user selected variables.
 
 Variable     | Description
