@@ -52,7 +52,6 @@ Particulate Matter (PM2.5)   | 88101
 
 A list of all available parameters can be found by requesting the API to return a list using the following request:
 https://aqs.epa.gov/data/api/list/parametersByClass?email=ryan.bares@utah.edu&key=tauperam28&pc=ALL
-
 Don't forget to update the email and key! 
 
 # Common Sites Codes for SLV
@@ -63,6 +62,10 @@ Rose Park                    | 3010
 Inland Port                  | 3017
 Magna                        | 1001
 Lake Park                    | 3014
+
+List of all sites in Salt Lake County:
+https://aqs.epa.gov/data/api/list/sitesByCounty?email=ryan.bares@utah.edu&key=tauperam29&state=49&county=035
+Don't forget to update the email and key! 
 
 
 # STEP 3: Saving Files From Web Browser
