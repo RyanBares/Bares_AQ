@@ -65,7 +65,7 @@ Magna                        | 1001
 Lake Park                    | 3014
 
 List of all sites in Salt Lake County:
-https://aqs.epa.gov/data/api/list/sitesByCounty?email=ryan.bares@utah.edu&key=tauperam29&state=49&county=035
+https://aqs.epa.gov/data/api/list/sitesByCounty?email=ryan.bares@utah.edu&key=tauperam28&state=49&county=035
 
 Don't forget to update the email and key! 
 
