@@ -13,7 +13,7 @@ If you were to use the above request you would get CO data (param=42401) for the
 
 # STEP 1: Set up a user name and get a key (token)
 Open a web broswer and enter the following command into the address bar:
-https://aqs.epa.gov/data/api/signup?**email=myemail@example.com**
+https://aqs.epa.gov/data/api/signup?email= **myemail@example.com**
 
 Replace "myemail@example.com" with the email address you want associated with your key.  The API will return a message informing you that the request was recieved and a key will be sent to the email you entered.  
 
