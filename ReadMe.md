@@ -32,9 +32,9 @@ site         | The site ID you want to download data from
 
 
 **Example:**
-https://aqs.epa.gov/data/api/sampleData/bySite?email=ryan.bares@utah.edu&key=tauperam28&param=42401&bdate=20181201&edate=20181231&state=49&county=035&site=3006
+https://aqs.epa.gov/data/api/sampleData/bySite?email=ryan.bares@utah.edu&key=tauperam28&param=42401&bdate=20180101&edate=20181231&state=49&county=035&site=3006
 
-If you were to use the above request you would get CO data (param=42401) for the enitre year of 2018 (bdate=20181201, edate=20181231) from DAQ Hawthorne (site=3006) located in Salt Lake County (county=035), Utah (state=49).  Note that the email is registered to my utah.edu account, which was issues the key (token) tauperam28 as described in **STEP 1**.  
+If you were to use the above request you would get CO data (param=42401) for the enitre year of 2018 (bdate=20180101, edate=20181231) from DAQ Hawthorne (site=3006) located in Salt Lake County (county=035), Utah (state=49).  Note that the email is registered to my utah.edu account, which was issues the key (token) tauperam28 as described in **STEP 1**.  
 
 
 # Common Paramaters for Air Quality Data
