@@ -23,11 +23,13 @@ Variable     | Description
 email        | The email you registered in Step 1 
 key          | The key sent to that email
 para         | The measurement (parameter) you want to download
-bdate        | The start date you want to download     (Note: you can only download one year of data at a time)
-edate        | The end data you want to download       (Note: you can only download one year of data at a time)
+bdate        | The start date you want to download* 
+edate        | The end data you want to download*    
 state        | The satate the measurement site you want to download from resides in
 county       | The county the measurement site you want to downlaod from resides in
 site         | The site ID you want to download data from
+*Note: you can only download one year of data at a time                             |
+
 
 **Example:**
 https://aqs.epa.gov/data/api/sampleData/bySite?email=ryan.bares@utah.edu&key=tauperam28&param=42401&bdate=20181201&edate=20181231&state=49&county=035&site=3006
