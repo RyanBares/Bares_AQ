@@ -36,7 +36,7 @@ In the address bar of a web browser, enter the desired variables into the approp
 **Example:**
 https://aqs.epa.gov/data/api/sampleData/bySite?email=ryan.bares@utah.edu&key=tauperam28&param=42101&bdate=20180101&edate=20181231&state=49&county=035&site=3006
 
-If you were to use the above request you would get CO data (param=42101) for the enitre year of 2018 (bdate=20180101, edate=20181231) from DAQ Hawthorne (site=3006) located in Salt Lake County (county=035), Utah (state=49).  Note that the email is registered to my utah.edu account, which was issued the key tauperam28 as described in **STEP 1**.  
+If you were to use the above request you would get CO data (param=42101) for the enitre year of 2018 (bdate=20180101, edate=20181231) from DAQ Hawthorne (site=3006) located in Salt Lake County (county=035), Utah (state=49).  Note that the email is registered to my utah.edu account, which was issued the key tauperam28 as described in **STEP 1** and will need to be changed to your email and key.
 
 
 # Common Parameters for Air Quality Data
