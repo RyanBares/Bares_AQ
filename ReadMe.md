@@ -1,4 +1,4 @@
-# Read me
+# Read Me
 The purpose of this file is to overview how to navigate the EPA's data API known as the Air Quality System (AQS).  
 
 The homepage for the AQS can be found here: https://aqs.epa.gov/aqsweb/documents/data_api.html
@@ -10,13 +10,13 @@ The homepage for the AQS can be found here: https://aqs.epa.gov/aqsweb/documents
 
 
 # Common Paramaters for Air Quality Data
-All  [config/data_config.json](config/data_config.json).  
 
-Instrument                   | Abbreviation
+Species                      | Paramater Code
 -----------------------------|----------------------------------
-Licor 6262 IRGA              | licor_6262
-Los Gatos Research UGGA      | lgr_ugga
-MetOne ES642                 | metone_es642
+Carbon Monoxide (CO)         |
+Nitrogen Oxide (NO)          | 
+Nitrogen Dioxide (NO2)       | 
+Oxides of Nitrogen (NOx)     |
 
 
 
