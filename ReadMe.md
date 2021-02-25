@@ -16,7 +16,7 @@ The key they send you will be used in all subsequent data requests.  If you lose
 
 
 # Request Structure
-The request commands are structured as a series of user selected variables. The variables are: 
+The request commands are structured as a series of user selected variables.
 
 Variable     | Description
 -------------|------------
