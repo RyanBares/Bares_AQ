@@ -1,4 +1,4 @@
-# Read Me
+# Overview
 The purpose of this file is to overview how to navigate the EPA's data API known as the Air Quality System (AQS).  This overview is specifically for downloading data from a single site (i.e. DAQ Hawthorne, or Rosepark).   
 
 The homepage for the AQS can be found here: https://aqs.epa.gov/aqsweb/documents/data_api.html
